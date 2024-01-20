@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CodePTIT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CodePTIT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
